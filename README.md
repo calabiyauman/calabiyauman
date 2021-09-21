@@ -2,13 +2,12 @@
 
 ## 🔭 I’m currently working on [Snackfleet](https://help.snackfleet.com)
 ### Which uses 
-   -[]M ongo
-   -[]E xpress
-   -[]A ngular
-   -[]N ode
+   -[]Mongo
+   -[]Express
+   -[]Angular
+   -[]Node
  ### Plus kotlin, swift, pm2, the list goes on and on and on......
-#    🌱 I’m currently learning flutter & dart
- ##Also Building using no-code prototypes with bubble.io
+  🌱
          
 <!--
 **calabiyauman/calabiyauman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
