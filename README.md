@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on [Snackfleet](https://help.snackfleet.com)
-### Which uses 
-   -[]Mongo
-   -[]Express
-   -[]Angular
-   -[]Node
- ### Plus kotlin, swift, pm2, the list goes on and on and on......
+## 🔭 I’m currently working at [Carbon Web Services](https://www.carbonwebservices.com)
+
   🌱
          
 <!--
