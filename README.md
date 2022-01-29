@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calabiyauman)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I’m currently working at [Carbon Web Services](https://www.carbonwebservices.com)
 
